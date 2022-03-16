@@ -1,8 +1,10 @@
 # css-button-library-upgrade
 
-### This repo is a DRY version of a previous Button Library I created
+### This repo is a DRY version of a previous Button Library previously created
 
-### It utilizes custom properties and the calc() function to make the css
+### Though there is no visual change in the rendered display, here
+
+### custom properties and the calc() function are utilized to make the css code
 
 ### much cleaner and easier to modify elements without the need to locate
 
