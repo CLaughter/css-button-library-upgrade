@@ -1,6 +1,6 @@
 # css-button-library-upgrade
 
-### This repo is a DRY version of a previous Button Library I put together
+### This repo is a DRY version of a previous Button Library I put together.
 
 ### Though there is no visual change in the rendered display, here
 
@@ -8,4 +8,4 @@
 
 ### much cleaner and easier to modify elements without the need to locate
 
-### and change each one individually, which is tedious and error prone
+### and change each one individually, which is tedious and error prone.
