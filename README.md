@@ -1,6 +1,6 @@
 # css-button-library-upgrade
 
-### This repo is a DRY version of a previous Button Library previously created
+### This repo is a DRY version of a previous Button Library I put together
 
 ### Though there is no visual change in the rendered display, here
 
