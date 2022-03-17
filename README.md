@@ -12,6 +12,6 @@
 
 ### Also, though a bit more complex, it is very easy to create any new button
 
-### with a few variable or simply change a characteristic like the
+### with a few variables or simply change a characteristic like the
 
 ### background color.
